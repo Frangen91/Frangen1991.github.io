@@ -17,8 +17,9 @@ table, th, td {
 <p>Ja kuna meil on vaja kirjutada 100 tähte teksti, siis 
 FrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangen.</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Narva_castle_2008.JPG" width="320" height="240">
-<a href="https://taltech.ee/">õpin siis</a> 
-  <table style="width:100%">
+<p></p>
+  <a href="https://taltech.ee/">õpin siis</a> 
+  <table style="width:50%">
   <tr>
     <th>Kool</th>
     <th>Haridus</th>
