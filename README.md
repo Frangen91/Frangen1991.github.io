@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
 <h1>213429IACB</h1>
 </head>
 <body>
@@ -13,7 +18,7 @@
 FrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangen.</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Narva_castle_2008.JPG" width="320" height="240">
 <a href="https://taltech.ee/">õpin siis</a> 
-  <table>
+  <table style="width:100%">
   <tr>
     <th>Kool</th>
     <th>Haridus</th>
